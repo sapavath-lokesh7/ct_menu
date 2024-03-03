@@ -11,3 +11,9 @@ const checkBoxes = () => {
 
 window.addEventListener("scroll", checkBoxes);
 checkBoxes();
+
+const load = document.getElementById("loader");
+
+window.addEventListener("load", () => {
+  load.style.display = "none";
+});
