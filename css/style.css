@@ -75,7 +75,7 @@ textarea {
   width: 100vw;
   position: fixed;
   background: white url("../imgs/icegif-1262.gif") no-repeat center center;
-  background-size: 25%;
+  background-size: 50%;
   z-index: 100;
 }
 
